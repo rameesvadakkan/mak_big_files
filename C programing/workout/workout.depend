@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752852829 source:c:\users\ramee\desktop\c programing\workout\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,80 @@
+"Day 1: Python Basics & Control Flow (14-08-2025)
+Topics:
+Variables and data types - Done
+Input/output
+Operators
+Conditional statements: if, elif, else
+Loops: for, while, break, continue
+Basic string and number operations
+
+Practice:
+Write a program to swap two variables -Done
+Check if a number is even or odd - Done
+Build a simple calculator - Done
+FizzBuzz implementation - Done
+Print triangle/star patterns
+
+Day 2: Functions, Scope & Error Handling
+Topics:
+Defining and calling functions
+Parameters and return values
+Variable scope (local vs global)
+try, except, finally, raise
+Practice:
+Write a function to check prime numbers
+Create a reusable function to convert temperature
+Handle division by zero gracefully
+Create a custom exception scenario
+
+Day 3: Lists, Tuples, Sets, Dictionaries
+Topics:
+Creating and modifying data structures
+Common operations and built-in methods
+Iterating through data structures
+When to use which collection
+Practice:
+Student score tracker using dictionaries
+Remove duplicates using sets
+Sort list of tuples
+Group words by their length
+
+Day 4: File I/O & Comprehensions
+Topics:
+Reading from and writing to text files - Done
+File handling best practices (with statement) - Done
+List/dict comprehensions
+Practice:
+Count word frequency in a text file
+Store user data in a file - done
+Generate a list of squares or primes using comprehensions
+
+Day 5: OOP in Python
+Topics:
+Classes and objects
+__init__ constructor
+Instance vs class variables
+Inheritance, method overriding
+Practice:
+Create a Book class with attributes and methods
+Build an Employee hierarchy with subclasses
+Override methods for custom behavior
+
+Day 6: Modules, Libraries & Virtual Environments
+Topics:
+Importing built-in and third-party modules
+Popular modules: random, math, datetime, os
+Creating and importing your own modules
+Setting up and using venv
+Practice:
+Generate a random password
+Get current date/time and format it
+Create a utility module with common functions
+Setup a small project in a virtual environment
+
+Day 7: Mini Python Project
+Ideas:
+Command-line todo app with file storage
+Quiz game using functions and file data
+Contact manager using OOP
+Banking simulation with account objects and file logs"
+will start revision today

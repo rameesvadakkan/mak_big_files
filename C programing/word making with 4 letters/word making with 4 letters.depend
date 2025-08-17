@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752599377 source:c:\users\ramee\desktop\c programing\word making with 4 letters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
