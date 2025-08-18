@@ -46,19 +46,19 @@ Reading from and writing to text files - Done
 File handling best practices (with statement) - Done
 List/dict comprehensions
 Practice:
-Count word frequency in a text file
+Count word frequency in a text file - pending
 Store user data in a file - Done
 Generate a list of squares or primes using comprehensions - Done
 
-Day 5: OOP in Python
+Day 5: OOP in Python 18 -08 - 2025
 Topics:
 Classes and objects
 __init__ constructor
 Instance vs class variables
 Inheritance, method overriding
 Practice:
-Create a Book class with attributes and methods
-Build an Employee hierarchy with subclasses
+Create a Book class with attributes and methods - Done
+Build an Employee hierarchy with subclasses 
 Override methods for custom behavior
 
 Day 6: Modules, Libraries & Virtual Environments
