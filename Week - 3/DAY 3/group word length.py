@@ -1,6 +1,6 @@
 words = ["apple", "bat", "cat", "banana", "dog", "mango"]
 
-grouped = {}  # empty dictionary
+grouped = {}
 
 for word in words:
     length = len(word)

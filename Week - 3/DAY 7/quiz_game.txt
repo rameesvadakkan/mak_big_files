@@ -1,0 +1,10 @@
+What is the capital of France?|Paris
+What is 2 + 2?|4
+Who painted the Mona Lisa?|Leonardo da Vinci
+What is the largest planet in our solar system?|Jupiter
+Who was the first man to walk on the Moon?|Neil Armstrong
+What do bees produce?|Honey
+What is the boiling point of water?|100 degrees Celsius
+What is the chemical symbol for water?|H2O
+What is the main ingredient in bread?|Flour
+Who is the founder of Microsoft?|Bill Gates

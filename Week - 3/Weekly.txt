@@ -23,7 +23,7 @@ try, except, finally, raise - Done
 
 Practice:
 Write a function to check prime numbers - Done
-Create a reusable function to convert temperature -pending
+Create a reusable function to convert temperature -done
 Handle division by zero gracefully -Done
 Create a custom exception scenario - Done
 
@@ -52,16 +52,16 @@ Generate a list of squares or primes using comprehensions - Done
 
 Day 5: OOP in Python 18 -08 - 2025
 Topics:
-Classes and objects
-__init__ constructor
-Instance vs class variables
-Inheritance, method overriding
+Classes and objects - Done
+__init__ constructor - Done
+Instance vs class variables - done
+Inheritance, method overriding 
 Practice:
 Create a Book class with attributes and methods - Done
-Build an Employee hierarchy with subclasses 
-Override methods for custom behavior
+Build an Employee hierarchy with subclasses - Done
+Override methods for custom behavior - pending
 
-Day 6: Modules, Libraries & Virtual Environments
+Day 6: Modules, Libraries & Virtual Environments 19-08-2025
 Topics:
 Importing built-in and third-party modules
 Popular modules: random, math, datetime, os
